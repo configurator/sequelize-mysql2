@@ -24,6 +24,7 @@
     "node": ">=6.0.0"
   },
   "files": [
+    "index.js",
     "lib",
     "types/index.d.ts",
     "types/lib"
